@@ -52,7 +52,7 @@ export default function Footer() {
           <div>
             <h4 className="font-display font-semibold text-white mb-4 text-base">Programs</h4>
             <ul className="space-y-2 text-sm text-gray-400">
-              {['Primary (Grades 1–5)', 'Middle School (6–8)', 'High School (9–10)', 'Higher Secondary (11–12)', 'JEE / NEET Coaching', 'Arts & Sports Streams'].map(p => (
+              {['Primary (Grades 1–5)', 'Middle School (6–8)', 'High School (9–10)', 'Higher Secondary (11–12)'].map(p => (
                 <li key={p} className="flex items-center gap-1.5">
                   <span className="text-gold-600">›</span> {p}
                 </li>

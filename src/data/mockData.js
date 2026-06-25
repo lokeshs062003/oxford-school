@@ -163,10 +163,10 @@ export const academicPrograms = [
 ];
 
 export const galleryImages = [
-  { src: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&q=80', caption: 'Campus Entrance', category: 'Campus' },
+  // { src: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&q=80', caption: 'Campus Entrance', category: 'Campus' },
   { src: 'https://images.unsplash.com/photo-1588072432836-e10032774350?w=600&q=80', caption: 'Science Lab', category: 'Labs' },
-  { src: 'https://images.unsplash.com/photo-1546519638405-a1e5b81eddc4?w=600&q=80', caption: 'Sports Day', category: 'Sports' },
-  { src: 'https://images.unsplash.com/photo-1604661665246-c2a2f4525a4a?w=600&q=80', caption: 'Annual Day', category: 'Events' },
+  // { src: 'https://images.unsplash.com/photo-1546519638405-a1e5b81eddc4?w=600&q=80', caption: 'Sports Day', category: 'Sports' },
+  // { src: 'https://images.unsplash.com/photo-1604661665246-c2a2f4525a4a?w=600&q=80', caption: 'Annual Day', category: 'Events' },
   { src: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&q=80', caption: 'Classroom', category: 'Campus' },
   { src: 'https://images.unsplash.com/photo-1542810634-71277d95dcbb?w=600&q=80', caption: 'Library', category: 'Labs' },
   { src: 'https://images.unsplash.com/photo-1530099486328-e021101a494a?w=600&q=80', caption: 'Graduation', category: 'Events' },
